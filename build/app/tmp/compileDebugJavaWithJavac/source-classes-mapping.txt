@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+br/com/acidbutter/count_people/BuildConfig.java
+ br.com.acidbutter.count_people.BuildConfig

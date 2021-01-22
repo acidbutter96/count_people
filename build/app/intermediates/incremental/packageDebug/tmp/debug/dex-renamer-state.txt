@@ -1,0 +1,4 @@
+#Fri Jan 22 03:22:59 BRT 2021
+base.0=/home/marcos/Documents/estudoFlutter/count_people/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
